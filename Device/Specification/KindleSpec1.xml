@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Start of script !-->
-<xml><!-- Data is as of 2021 December 21st at 4:15 pm !-->
+<xml><!-- Data is as of 2021 December 21st at 4:51 pm !-->
 <kindlespec1>
 <osname>Kindle FireOS</osname>
 <osdeveloper>Amazon.com</osdeveloper><!-- The website shares the same name as the company, including the TLD (Top Level Domain). The company name really is amazon.com !-->
@@ -48,7 +48,154 @@ HBO Go
 StayConnected @ Hampton
 Audible.com
 Pulse - Bringing you good news
+<applistNote>
+System apps are currently not included
+</applistNote>
 </applist>
+<!-- Start of table !-->
+<applistTable>
+<a01> <!-- App 01 of 14 !-->
+<a01_title>Crime City</a01_title>
+<a01_developer>Unknown</a01_developer>
+<a01_offline>This app does not work offline</a01_offline>
+<a01_paid>This app did not cost money</a01_paid>
+<a01_source>Closed source</a01_source>
+<a01_sourceModel>Freemium (Free, but with in-app purchased)</a01_sourceModel>
+<a01_version>V???</a01_version>
+<a01_language>English (US)</a01_language>
+</a01>
+<a02> <!-- App 02 of 14 !-->
+<a02_title>Game Dev Tycoon</a02_title>
+<a02_developer>Kairosoft</a02_developer>
+<a02_offline>This app works offline</a02_offline>
+<a02_paid>This app costs money ($1.99)</a02_paid><!-- Not exact price !-->
+<a02_source>Closed source</a02_source>
+<a02_sourceModel>Paid (Paid, but with no in-app purchases)</a02_sourceModel>
+<a01_version>V???</a01_version>
+<a02_language>English (US)</a02_language>
+</a02>
+<a03> <!-- App 03 of 14 !-->
+<a03_title>Anime Studio Story</a03_title>
+<a03_developer>Kairosoft</a03_developer>
+<a03_offline>This app works offline</a03_offline>
+<a03_paid>This app costs money ($1.99)</a03_paid><!-- Not exact price !-->
+<a03_source>Closed source</a03_source>
+<a03_sourceModel>Paid (Paid, but with no in-app purchases)</a03_sourceModel>
+<a01_version>V???</a01_version>
+<a03_language>English (US)</a03_language>
+</a03>
+<a04> <!-- App 04 of 14 !-->
+<a04_title>Restaurant Story</a04_title>
+<a04_developer>TeamLava/Storm8</a04_developer>
+<a04_offline>This app does not work offline</a04_offline>
+<a04_paid>This app does not cost money</a04_paid>
+<a04_source>Closed source</a04_source>
+<a04_sourceModel>Freemium (Free, but with in-app purchases)</a04_sourceModel>
+<a01_version>V???</a01_version>
+<a04_language>English (US)</a04_language>
+</a04>
+<a05> <!-- App 05 of 14 !-->
+<a05_title>Five Nights At Freddys</a05_title>
+<a05_developer>Scott Cawthon</a05_developer>
+<a05_offline>This app works offline</a05_offline>
+<a05_paid>This app costs money ($0.99)</a05_paid><!-- Not exact price !-->
+<a05_source>Closed source</a05_source>
+<a05_sourceModel>Paid (Paid, but with no in-app purchases)</a05_sourceModel>
+<a01_version>V???</a01_version>
+<a05_language>English (US)</a05_language>
+</a05>
+<a06> <!-- App 06 of 14 !-->
+<a06_title>Five Nights At Freddys 2</a06_title>
+<a06_developer>Scott Cawthon</a06_developer>
+<a06_offline>This app works offline</a06_offline>
+<a06_paid>This app costs money ($0.99)</a06_paid><!-- Not exact price !-->
+<a06_source>Closed source</a06_source>
+<a06_sourceModel>Paid (Paid, but with no in-app purchases)</a06_sourceModel>
+<a01_version>V???</a01_version>
+<a06_language>English (US)</a06_language>
+</a06>
+<a07> <!-- App 07 of 14 !-->
+<a07_title>Five Nights At Freddys 3</a07_title>
+<a07_developer>Scott Cawthon</a07_developer>
+<a07_offline>This app works offline</a07_offline>
+<a07_paid>This app costs money ($0.99)</a07_paid><!-- Not exact price !-->
+<a07_source>Closed source</a07_source>
+<a07_sourceModel>Paid (Paid, but with no in-app purchases)</a07_sourceModel>
+<a01_version>V???</a01_version>
+<a07_language>English (US)</a07_language>
+</a07>
+<a08> <!-- App 08 of 14 !-->
+<a08_title>Minecraft Pocket Edition</a08_title>
+<a08_developer>Mojang</a08_developer>
+<a08_offline>This app works offline</a08_offline>
+<a08_paid>This app costs money ($6.99)</a08_paid>
+<a08_source>Closed source</a08_source>
+<a08_sourceModel>Paid (Paid, but with no in-app purchases)</a08_sourceModel><!-- Modern Minecraft contains in-app purchases, but this is a super old version, so it doesn't count, since it doesn't have them in this version. !-->
+<a08_language>English (US)</a08_language>
+<a08_version>Alpha 0.13.2</a08_version>
+</a08>
+<a09> <!-- App 09 of 14 !-->
+<a09_title>Hill Climb Racing</a09_title>
+<a09_develope>Fingersoft</a09_developer>
+<a09_offline>This app works offline</a09_offline>
+<a09_paid>This app does not cost money</a09_paid>
+<a09_source>Closed source</a09_source>
+<a09_sourceModel>Freemium (Free, but with in-app purchases, although not needed to play normally)</a09_sourceModel>
+<a09_language>English (US)</a09_language>
+<a09_version>V???</a09_version>
+</a09>
+<a10> <!-- App 10 of 14 !-->
+<a10_title>Pandora</a10_title>
+<a10_developer>Pandora</a10_developer><!-- Pandora was bought out in 2019, but this app hasn't been updated in years, and is a pre-Sirius XM version !-->
+<a10_offline>This app does not work offline</a10_offline>
+<a10_paid>This app does not cost money</a10_paid>
+<a10_source>Closed source</a10_source>
+<a10_sourceModel>Free</a10_sourceModel>
+<a10_language>English (US)</a10_language>
+<a10_version>V???</a10_version>
+</a10>
+<a11> <!-- App 11 of 14 !-->
+<a11_title>HBO Go</a11_title>
+<a11_developer>HBO</a11_developer>
+<a11_offline>This app does not work offline</a11_offline>
+<a11_paid>This app costs money (monthly subscription)</a11_paid>
+<a11_source>Closed source</a11_source>
+<a11_sourceModel>Paid subscription required</a11_sourceModel>
+<a11_language>Multiple</a11_language>
+<a11_version>V???</a11_version>
+</a11>
+<a12> <!-- App 12 of 14 !-->
+<a12_title>Stay Connected @ Hampton</a12_title>
+<a12_developer>Hampton Hotels</a12_developer>
+<a12_offline>This app does not work offline</a12_offline>
+<a12_paid>This app does not cost money</a12_paid>
+<a12_source>Closed source</a12_source>
+<a12_sourceModel>Freeware</a12_sourceModel>
+<a12_language>Multiple</a12_language>
+<a12_version>V???</a12_version>
+</a12>
+<a13> <!-- App 13 of 14 !-->
+<a13_title>Audible</a13_title>
+<a13_developer>Audible</a13_developer><!-- Audible is now an Amazon subsidiary !-->
+<a13_offline>This app does not work offline</a13_offline>
+<a13_paid>This app costs money (subscription-based)</a13_paid>
+<a13_source>Closed source</a13_source>
+<a13_sourceModel>Paid subscription required</a13_sourceModel>
+<a13_language>Multiple</a13_language>
+<a13_version>V???</a13_version>
+</a13>
+<a14> <!-- App 14 of 14 !-->
+<a14_title>Pulse - Bringing you good news</a14_title>
+<a14_developer>Unknown</a14_developer>
+<a14_offline>Unknown</a14_offline>
+<a14_paid>Unknown</a14_paid>
+<a14_source>Closed source</a14_source>
+<a14_sourceModel>Unknown</a14_sourceModel>
+<a14_language>Unknown</a14_language>
+<a14_version>V???</a14_version>
+</a14>
+<applistTable>
+<!-- End of table !-->
 <booklist>
 New Oxford American Dictionary second edition
 Welcome to your new Kindle Fire
@@ -406,7 +553,7 @@ Added the accessories section
 Added the todo comment block
 Added the file info section
 No other changes in version 1
-Version 2 (2021, Tuesday, December 20th at 4:15 pm)
+Version 2 (2021, Tuesday, December 21st at 4:15 pm)
 Changes:
 Updated the application list
 Updated the book list
@@ -424,11 +571,18 @@ Added the usernameDisplay label
 Added the password label
 Added the MAC address label
 Added the serial number label
-No other changes in version 1
+Renamed the Kindlespec wraparound tag from `kindlespec` to `kindlespec1`
+No other changes in version 2
+Version 3 (2021, Tuesday, December 21st at 4:51 pm)
+Changes:
+Updated the application list
+Added an application table
+Updated the changelog
+Updated the file info section
 !-->
 <!-- File info
 File type: XML document (*.xml, *many)
-File version: 2 (2021, Tuesday, December 21st at 4:15 pm)
-Line count (including blank lines and compiler line): 435
+File version: 2 (2021, Tuesday, December 21st at 4:51 pm)
+Line count (including blank lines and compiler line): 589
 !-->
 <!-- End of script !-->
